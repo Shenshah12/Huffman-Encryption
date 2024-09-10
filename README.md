@@ -10,7 +10,8 @@ Compress text files using Huffman coding.
 Make sure you have the following installed:
 
 C++ compiler (Visual Studio)
-### Installation
+## Output
+### Before Encryption
 
-git clone https://github.com/Shensah12/Huffman-Encryption.git
+### After Encryption
 
