@@ -15,16 +15,19 @@ The resulting compressed output comprises a serialized representation of the Huf
 Make sure you have the following installed:
 
 C++ compiler (Visual Studio)
-## Output
-### Before Encryption
+## Before Encryption
 <img width="1271" alt="original" src="https://github.com/user-attachments/assets/42344dae-4bc5-427e-93e3-eadffe3716a2">
+
+### File Size
 <img width="682" alt="original_1" src="https://github.com/user-attachments/assets/dfe1afb7-6440-42f7-9539-de28c55494fe">
 
-### After Encryption
-#### Huffman Tree
+## After Encryption
+### Huffman Tree
 <img width="850" alt="Output" src="https://github.com/user-attachments/assets/a7f56280-9533-4b32-b0c0-9ea2fa28116a">
 
-#### Flie Encrypted
+### File Encrypted
 <img width="1163" alt="encryption" src="https://github.com/user-attachments/assets/8105a2bb-76fe-4faf-b8a5-064faaea2ad5">
+
+### File Size
 <img width="677" alt="encryption_1" src="https://github.com/user-attachments/assets/b00ead1e-3252-4dae-b81b-c046fe276b29">
 
