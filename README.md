@@ -23,7 +23,8 @@ C++ compiler (Visual Studio)
 ### After Encryption
 #### Huffman Tree
 <img width="850" alt="Output" src="https://github.com/user-attachments/assets/a7f56280-9533-4b32-b0c0-9ea2fa28116a">
-#### Huffman Tree
+
+#### Flie Encrypted
 <img width="1163" alt="encryption" src="https://github.com/user-attachments/assets/8105a2bb-76fe-4faf-b8a5-064faaea2ad5">
 <img width="677" alt="encryption_1" src="https://github.com/user-attachments/assets/b00ead1e-3252-4dae-b81b-c046fe276b29">
 
